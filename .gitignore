@@ -13,3 +13,4 @@ completions/
 .idea/
 manpages
 output.json
+__debug_bin
